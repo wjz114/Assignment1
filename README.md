@@ -1,6 +1,8 @@
 # MECH 550C Assignment 1
 
 This project uses a modified version of the Hello World example of Visual C#, and is edited to meet the assignment requirements. 
+The application opens a cmd window which displays a message about what I'd like to learn about software.
+It will notify the user that the window will close in 5 seconds and the window will close in 5 seconds after the message.
 
 ## Getting Started
 
