@@ -19,11 +19,12 @@ A development environment for C# is needed, to test and edit the .cs source code
 
 The application does not need any installation process once all necessary files are retrieved. 
 
-To get the application, the user just needs to extract all the files (including .exe and asscociated DLLs) in the app.zip file. 
+To get the application, the user just needs to extract all the files (including .exe and asscociated DLLs/runtime) in the app.zip file. 
 ```
 Files in app.zip:
                   Assignment1.exe
                   Assignment1.dll
+                  Assignment1.runtimeconfig.json
 ```
 
 The source code is compressed in the source.zip file. 
